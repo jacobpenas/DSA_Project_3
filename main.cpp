@@ -15,7 +15,7 @@ int main() {
 		<< "\nstreaming website. Each edge corresponds to a mutual follow relationship"
 		<< "\nbetween those nodes." << endl << endl;
 
-	cout << "The purpose of this program is to compare BFS and DFS search algorithms."
+	cout << "The purpose of this program is to compare BFS and DFS traversal algorithms."
 		<< "\nThe user inputs a starting node and a destination node. Afterwards, the"
 		<< "\nprogram will search for the destination node, beginning from the start"
 		<< "\nnode, through both BFS and DFS. It will then compare the two search"
